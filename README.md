@@ -1,4 +1,14 @@
 ## Hi there 👋
+--
+My name is Alvar Aasgaard, a Computer Engineering Student from Norway.
+
+## About me in 30 seconds
+- Directly from high school
+- Enjoy the outdoors
+- Interested in cars/engines
+
+
+
 
 <!--
 **AlvarAasgaard/AlvarAasgaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

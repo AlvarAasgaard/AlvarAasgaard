@@ -19,6 +19,7 @@ My name is Alvar Aasgaard, a Computer Engineering Student from Norway.
 
 
 ## My projects
+- [Task related to IDATG2003 Programmering 2](https://github.com/AlvarAasgaard/IDATG2003-oblig3-amaasgaa) (Available to public)
 - [Diary, solo-project IDATG1003, Programmering 1](https://github.com/NTNU-IE-IDI-IDATG/mappe-idatg1003-2025-AlvarAasgaard)
 - [Millions, pair-project IDATG2003, Programmering 2](https://github.com/NTNU-IE-IDI-IDATG/mappe-2026-millions-gruppe-15)
 

@@ -7,9 +7,14 @@ My name is Alvar Aasgaard, a Computer Engineering Student from Norway.
 - Enjoy the outdoors
 - Interested in cars/engines
 
+## Skills
+- Python, Java and HTML.
+- Querying with SQL.
+- Learning C and C++.
+
 ## Apart from studying i
 - Volunteer for Login, the student union for IT at NTNU Gjøvik.
-- Work out
+- Work out at the local gym
 - Game (the little time i have left to at least)
 
 

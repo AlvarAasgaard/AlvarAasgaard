@@ -18,6 +18,10 @@ My name is Alvar Aasgaard, a Computer Engineering Student from Norway.
 - Game (the little time i have left to at least)
 
 
+## My projects
+- [Millions, pair-project IDATG2003, Programmering 2](https://github.com/NTNU-IE-IDI-IDATG/mappe-2026-millions-gruppe-15)
+
+
 
 <!--
 **AlvarAasgaard/AlvarAasgaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
